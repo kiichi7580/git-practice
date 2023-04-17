@@ -1,7 +1,7 @@
 # git-practice
 git練習用のリポジトリです。
 <br>
-＃　<font color="green">自己紹介</font>
+＃　<font color="Green">自己紹介</font>
 <br>
 ＊　名前　中里起一
 <br>
